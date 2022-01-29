@@ -1,2 +1,2 @@
 # Crypter
-RC4 encryption program with command control
+RC4 Encryption program with command control
