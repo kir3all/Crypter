@@ -1,1 +1,2 @@
-# CrypterEncryption program with command control
+# Crypter
+Encryption program with command control
